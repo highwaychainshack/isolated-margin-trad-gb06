@@ -1,4 +1,4 @@
-# 
+# quantitative isolated-margin trading bot Tool | trailing-stop + liquidity-provision offers the most advanced isolated-margin trading bot, with trailing-stop and
 
 
 
